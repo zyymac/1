@@ -1,0 +1,21 @@
+# Anlogic TD IDE build outputs
+*.bit
+*.bid
+*.db
+*.timing
+*.rpt
+*.qor
+*.status
+*.log
+*.logw
+*.ts
+
+# Encrypted vendor IP (cannot be shared / read)
+*.enc.v
+*.enc.sv
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
